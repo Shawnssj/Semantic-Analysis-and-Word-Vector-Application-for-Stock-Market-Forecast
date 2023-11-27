@@ -1,0 +1,2 @@
+# Semantic-Analysis-and-Word-Vector-Application-for-Stock-Market-Forecast
+Introduction:  This study blends semantic analysis, word vectors, and machine learning for stock market prediction. By extracting insights from textual data using NLP, understanding contextual relationships through word vectors, and employing supervised learning, our approach aims to enhance forecasting accuracy in the dynamic financial landscape.
